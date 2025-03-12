@@ -4,7 +4,7 @@
 # § 2 Føremål
 ## Styret
 1. Programmerbar er ein frivillig studentdriven organisasjon ved Institutt for informatikk ved Universitetet i Bergen.
-2. Programmerbar er ein underorganisasjon av echo - Linjeforeningen for informatikk (heretter kalla echo). echo sitt hovedstyre og styret i Programmerbar har innbyrdes møterett i styremøtene til kvarandre.
+2. Programmerbar er ein underorganisasjon av echo – Linjeforeningen for informatikk (heretter kalla echo). echo sitt hovedstyre og styret i Programmerbar har innbyrdes møterett i styremøtene til kvarandre.
 3. Organisasjonen har som føremål å betre og styrke det sosiale miljøet blant Våre studenter[^1], professorar, tilsette og stipendiatar ved å drive ein bar. Baren set mål om å vere ein arena for å styrke det sosiale båndet på tvers av dei nemnde gruppene.
 
 ## Arrangement
@@ -103,4 +103,4 @@
 3. Ingen medlemmar har krav på foreninga sine midlar eller andel av desse.  
 
 ________________
-[^1]: [echo - Fagutvalget for informatikk sine statutter](https://echo.uib.no/om/vedtekter)
+[^1]: [echo – Linjeforeningen for informatikk sine vedtekter](https://echo.uib.no/om/vedtekter)
